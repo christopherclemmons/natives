@@ -9,7 +9,7 @@ BOOL IS_PED_IN_COVER(Ped ped, BOOL exceptUseWeapon);
 ```
 
 ```
-p1 is nearly always 0 in the scripts.  
+Determines if a specific pedestrian ("ped") is currently taking cover behind an object. p1 is nearly always 0 in the scripts.  
 ```
 
 ## Parameters
